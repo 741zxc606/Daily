@@ -11,7 +11,7 @@
 ##### [IBM 理解Linux的硬链接和软链接](https://www.ibm.com/developerworks/cn/linux/l-cn-hardandsymb-links/index.html)
 ##### [AIX6.1 inode.h File](https://www.ibm.com/support/knowledgecenter/ssw_aix_61/com.ibm.aix.files/inode.h.htm)
 ##### [Learn Linux IBM](https://www.ibm.com/developerworks/cn/linux/l-start/index.html#ibm-pcon)
-##### [理解inode](http://www.ruanyifeng.com/blog/2011/12/inode.html)
+##### [理解inode阮一峰](http://www.ruanyifeng.com/blog/2011/12/inode.html)
 
 
 
