@@ -1,20 +1,18 @@
-# Learning Linux File&Disk System
-##### [鸟哥Linux基础篇 第七章](https://wizardforcel.gitbooks.io/vbird-linux-basic-4e/content/58.html)
-##### [IBM Linux文件系统剖析](https://www.ibm.com/developerworks/cn/linux/l-linux-filesystem/)
-## inode
-##### [Linux文件系统的实现](http://blog.jobbole.com/108106/?repeat=w3tc)
-##### [Linux文件管理](http://blog.jobbole.com/108108/)
-##### [理解inode](http://blog.jobbole.com/108015/)
-##### [IBM 关于inode](https://www.ibm.com/developerworks/cn/aix/library/au-speakingunix14/)
-##### [IBM 恢复Linux上删除的文件（2）](https://www.ibm.com/developerworks/cn/linux/l-cn-filesrc2/)
-##### [IBM 创建分区和文件系统](https://www.ibm.com/developerworks/cn/linux/l-lpic1-104-1/index.html#ibm-pcon)
-##### [IBM 理解Linux的硬链接和软链接](https://www.ibm.com/developerworks/cn/linux/l-cn-hardandsymb-links/index.html)
-##### [AIX6.1 inode.h File](https://www.ibm.com/support/knowledgecenter/ssw_aix_61/com.ibm.aix.files/inode.h.htm)
-##### [Learn Linux IBM](https://www.ibm.com/developerworks/cn/linux/l-start/index.html#ibm-pcon)
-##### [理解inode阮一峰](http://www.ruanyifeng.com/blog/2011/12/inode.html)
+## Learning Linux File&Disk System
+[鸟哥Linux基础篇 第七章](https://wizardforcel.gitbooks.io/vbird-linux-basic-4e/content/58.html)
+[IBM Linux文件系统剖析](https://www.ibm.com/developerworks/cn/linux/l-linux-filesystem/)
+[Linux文件系统的实现](http://blog.jobbole.com/108106/?repeat=w3tc)
+[Linux文件管理](http://blog.jobbole.com/108108/)
+[理解inode](http://blog.jobbole.com/108015/)
+[IBM 关于inode](https://www.ibm.com/developerworks/cn/aix/library/au-speakingunix14/)
+[IBM 恢复Linux上删除的文件（2）](https://www.ibm.com/developerworks/cn/linux/l-cn-filesrc2/)
+[IBM 创建分区和文件系统](https://www.ibm.com/developerworks/cn/linux/l-lpic1-104-1/index.html#ibm-pcon)
+[IBM 理解Linux的硬链接和软链接](https://www.ibm.com/developerworks/cn/linux/l-cn-hardandsymb-links/index.html)
+[AIX6.1 inode.h File](https://www.ibm.com/support/knowledgecenter/ssw_aix_61/com.ibm.aix.files/inode.h.htm)
+[Learn Linux IBM](https://www.ibm.com/developerworks/cn/linux/l-start/index.html#ibm-pcon)
+[理解inode阮一峰](http://www.ruanyifeng.com/blog/2011/12/inode.html)
 
-
-
+## Learning PowerShell
 [Orchestrator Guide](https://technet.microsoft.com/zh-cn/library/hh237242(v=sc.12).aspx)
 
 [Orchestrator import_export](https://www.petri.com/system-center-2012-sp1-orchestrator-export-import-runbook)
@@ -34,8 +32,6 @@
 [System Center 2012 Integration Guide](https://social.technet.microsoft.com/wiki/contents/articles/13188.system-center-2012-integration-guide.aspx)
 
 [PowerShell Pester](http://www.pstips.net/pester.html)
-
-
 
 [Orchestrator Guide](https://technet.microsoft.com/zh-cn/library/hh237242(v=sc.12).aspx)
 
