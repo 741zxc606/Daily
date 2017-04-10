@@ -39,26 +39,6 @@
 
 [PowerShell Script Analyzer, Script browser 和 Pester](http://www.tuicool.com/articles/vMjuqiz)
 
-[Windows Powershell Cookbook](http://www.reedbushey.com/86Windows%20Powershell%20Cookbook%203rd%20Edition.pdf)
-
-[System Center 2012 Integration Guide](https://social.technet.microsoft.com/wiki/contents/articles/13188.system-center-2012-integration-guide.aspx)
-
-[PowerShell Pester](http://www.pstips.net/pester.html)
-
-[Orchestrator Guide](https://technet.microsoft.com/zh-cn/library/hh237242(v=sc.12).aspx)
-
-[Orchestrator import_export](https://www.petri.com/system-center-2012-sp1-orchestrator-export-import-runbook)
-
-[使用Windows PowerShell编写脚本](https://technet.microsoft.com/zh-cn/library/bb978526.aspx)
-
-[PowerShell基础知识](https://msdn.microsoft.com/zh-cn/powershell/scripting/getting-started/fundamental/windows-powershell-basics)
-
-[PowerShell在线教程](http://www.pstips.net/powershell-online-tutorials/)
-
-[microsoft_systemcenter_design](https://www.google.com.sg/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwjzzfj50P_SAhWMerwKHTUSBiAQFggnMAI&url=http%3A%2F%2Fdownload.microsoft.com%2Fdownload%2F7%2F8%2F4%2F784d76d6-4d14-4d26-879e-149924b7b0c0%2Fmicrosoft_press_ebook_systemcenterdesigningorchestratorrunbooks_pdf.pdf&usg=AFQjCNG4RrWNurxq9ij0i6CddIITRTOS4w)
-
-[PowerShell Script Analyzer, Script browser 和 Pester](http://www.tuicool.com/articles/vMjuqiz)
-
 [Windows PowerShell Cookbook](http://www.reedbushey.com/86Windows%20Powershell%20Cookbook%203rd%20Edition.pdf)
 
 [Learn Windows PowerShell 3](https://endusercompute.files.wordpress.com/2015/07/learn-windows-powershell-3-in-a-month-of-lunches-don-jones-jeffrey-hicks.pdf)
