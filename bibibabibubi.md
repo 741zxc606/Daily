@@ -59,7 +59,9 @@
 
 [PowerShell Script Analyzer, Script browser 和 Pester](http://www.tuicool.com/articles/vMjuqiz)
 
-[Windows Powershell Cookbook](http://www.reedbushey.com/86Windows%20Powershell%20Cookbook%203rd%20Edition.pdf)
+[Windows PowerShell Cookbook](http://www.reedbushey.com/86Windows%20Powershell%20Cookbook%203rd%20Edition.pdf)
+
+[Learn Windows PowerShell 3](https://endusercompute.files.wordpress.com/2015/07/learn-windows-powershell-3-in-a-month-of-lunches-don-jones-jeffrey-hicks.pdf)
 
 [System Center 2012 Integration Guide](https://social.technet.microsoft.com/wiki/contents/articles/13188.system-center-2012-integration-guide.aspx)
 
