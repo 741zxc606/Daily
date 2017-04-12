@@ -9,7 +9,7 @@ using namespace std;
 
 int main()
 {
-	freopen_s(&stream,"12.3.in", "r", stdin);//freopen_s ???
+	freopen("12.3.in","r", stdin);
 
 	int int_len = sizeof(int) * 8;
 	int bit_len = 0xFFFFFFFF / int_len;
