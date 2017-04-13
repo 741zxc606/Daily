@@ -1,4 +1,4 @@
-#include <stdio.h>
+ms#include <stdio.h>
 #include <iostream>
 #include <windows.h>   
 using namespace std;
@@ -30,6 +30,6 @@ int main()
   /*此处*1000，以毫秒为单位；*1000000 以微秒为单位*/   
   /*由于执行时间极短（可能是几微秒），所以采用微秒为单位*/  
   /*  1s=10^3ms(毫秒)=10^6μs(微秒)=10^9ns(纳秒)  */   
-	printf("%d",(end.QuadPart-start.QuadPart)*1000/Freq.QuadPart);
+	printf("%dms",(end.QuadPart-start.QuadPart)*1000/Freq.QuadPart);
 	return 0;
 }
