@@ -1,8 +1,8 @@
 /*
-*Given an input file with four billion integers, provide an algorithm to generate an integer which is not contained in the file.
-*Assume you have 1 GB of memory.
-*FOLLOW UP
-*/
+ *Given an input file with four billion integers, provide an algorithm to generate an integer which is not contained in the file.
+ *Assume you have 1 GB of memory.
+ *FOLLOW UP
+ */
 #include <iostream>
 #include <cstdio>
 using namespace std;
