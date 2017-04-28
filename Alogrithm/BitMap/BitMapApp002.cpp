@@ -2,7 +2,7 @@
  *Assume you have 1 GB of memory.
  *FOLLOW UP
  *What if you have only 10 MB of memory?
-*/
+ */
 
 #include <iostream>
 #include <cstdio>
