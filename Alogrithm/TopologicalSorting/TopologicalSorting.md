@@ -1,4 +1,4 @@
-##[Toplogical Sorting](https://en.wikipedia.org/wiki/Topological_sorting)
+[Toplogical Sorting](https://en.wikipedia.org/wiki/Topological_sorting)
 
 [编程珠玑（续）第二章 关联数组](http://blog.csdn.net/tianshuai1111/article/details/7637273)
 
