@@ -1,4 +1,3 @@
-
 ## Learning Linux File&Disk System
 [鸟哥Linux基础篇 第七章](https://wizardforcel.gitbooks.io/vbird-linux-basic-4e/content/58.html)
 
@@ -47,7 +46,7 @@
 
 [PowerShell Pester](http://www.pstips.net/pester.html)
 
-
+[Surely I am Joking](https://yinwang0.wordpress.com/2013/12/)
 
 
 
