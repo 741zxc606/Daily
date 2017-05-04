@@ -48,6 +48,8 @@
 
 [Surely I am Joking](https://yinwang0.wordpress.com/2013/12/)
 
+[膝盖损伤与恢复](https://site.douban.com/106644/widget/notes/258412/note/99793058/)
+
 
 
 
